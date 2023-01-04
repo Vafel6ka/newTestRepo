@@ -9,7 +9,7 @@
 
 .App p:hover {
   text-align: center;
-  color: blue;
+  color: rgb(48, 48, 207);
 }
 
 @media (prefers-reduced-motion: no-preference) {
